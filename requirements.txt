@@ -1,0 +1,8 @@
+Flask
+pybase64
+jsonpickle
+pillow
+numpy
+pytesseract
+opencv-python==4.5.3.56
+face-recognition==1.3.0
